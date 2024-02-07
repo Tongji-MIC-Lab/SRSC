@@ -297,4 +297,4 @@ Feel free to contact us via ziyuchen1997@tongji.edu.cn or open an issue on githu
 
 Please cite the following paper if you find this work useful:
 
-Ziyu Chen, Hanli Wang, Chang Wen Chen, Self-supervised Video Representation Learning by Serial Restoration with Elastic Complexity, IEEE Transactions on Multimedia (TMM'23), accepted, 2023.
+Ziyu Chen, Hanli Wang, and Chang Wen Chen, Self-supervised Video Representation Learning by Serial Restoration with Elastic Complexity, IEEE Transactions on Multimedia, vol. 26, pp. 2235-2248, Feb. 2024.
